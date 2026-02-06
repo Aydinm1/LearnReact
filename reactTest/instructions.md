@@ -7,6 +7,7 @@ Create a reusable card component that supports dynamic content and renders three
 - The card component must accept props for `title`, `description`, `image`, `buttonText`, and `buttonLink`.
 - Clicking the button should navigate to the provided `buttonLink`.
 - There should be **3 cards** when finished.
+- In /src, create a folder called components where you will create your Card.tsx
 
 ## Images
 - Images are located in `src/assets`.
